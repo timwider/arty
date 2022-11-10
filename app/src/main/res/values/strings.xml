@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">arty</string>
+
+    <string name="artworks_in_your_pocket">10K artists\n100K artworks\nall in your pocket</string>
+    <string name="onboarding_fragment">Onboarding Fragment</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="powered_by">powered by \nArt Institute of Chicago</string>
+    <string name="take_a_look">take a look</string>
+    <string name="explore">explore</string>
+    <string name="settings">settings</string>
+    <string name="settings_fragment">Settings Fragment</string>
+    <string name="theme_light">light</string>
+    <string name="theme_dark">dark</string>
+    <string name="theme_system">system</string>
+    <string name="cache_images">Cache images</string>
+    <string name="card_quote">Everything that is visible hides something that is invisible.\n\nRene Magritte</string>
+    <string name="painting_of_the_day">Painting of the day</string>
+    <string name="painting_of_the_day_description">Get notification with random artwork.</string>
+    <string name="visit_artic_description">Official website of Art Insitute of Chicago</string>
+</resources>
